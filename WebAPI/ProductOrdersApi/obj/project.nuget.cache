@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "4JRhKZgfPRrR+LJCslUCFjKjbfMfm5Td4anklQKTt8CoK7gFvuaF56XuvQrPE8ablazOPUpnU1gAckCrqMxbOw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\me\\source\\repos\\ProductOrderApp\\WebAPI\\ProductOrdersApi\\ProductOrdersApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\me\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.9\\microsoft.aspnetcore.jsonpatch.3.1.9.nupkg.sha512",
+    "C:\\Users\\me\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\3.1.9\\microsoft.aspnetcore.mvc.newtonsoftjson.3.1.9.nupkg.sha512",
+    "C:\\Users\\me\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\me\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\me\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
