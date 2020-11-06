@@ -14,7 +14,6 @@ export const  reducer = (state, action) => {
             return { ...state, orders:[...orders, payload], totalPrice: totalPrice + payload.totalPrice };  
       case "reset_order":
             return { ...state, orders:[], totalPrice: 0 };  
-     
-     
+         
     }
   };
